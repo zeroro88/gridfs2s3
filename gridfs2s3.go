@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/go-amz/amz/aws/aws"
+	"github.com/go-amz/amz/aws"
 	"github.com/go-amz/amz/s3"
 	"gopkg.in/mgo.v2"
 )
